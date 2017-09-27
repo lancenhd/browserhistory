@@ -13,3 +13,32 @@ body{
 img{
   float: left;
 }
+
+#left{
+  float:left;
+  width:300px;
+}
+
+#right{
+  float:right;
+  width:300px;
+}
+
+#center{
+  margin-right:300px;
+  margin-left:300px;
+
+
+}
+
+#navbar li{
+  display:inline-block;
+  text-decoration: none;
+  padding:10px 130px;
+
+
+}
+
+#navbar ul{
+  text-decoration:none;
+}
